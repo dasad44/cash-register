@@ -4,3 +4,9 @@ C:\Users\User\source\repos\CashRegister\CashRegister\bin\Debug\CashRegister.exe
 C:\Users\User\source\repos\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
 C:\Users\User\source\repos\CashRegister\CashRegister\obj\Debug\CashRegister.exe
 C:\Users\User\source\repos\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+C:\Users\User\source\repos\cash-register\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Users\User\source\repos\cash-register\CashRegister\bin\Debug\CashRegister.exe
+C:\Users\User\source\repos\cash-register\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\User\source\repos\cash-register\CashRegister\obj\Debug\CashRegister.csprojAssemblyReference.cache
+C:\Users\User\source\repos\cash-register\CashRegister\obj\Debug\CashRegister.exe
+C:\Users\User\source\repos\cash-register\CashRegister\obj\Debug\CashRegister.pdb

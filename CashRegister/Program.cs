@@ -64,7 +64,7 @@ namespace CashRegister
                     }
                     double rest = Math.Abs(prize);
                     Console.WriteLine("Reszta wynosi: " + rest);
-                    for (int i = 0; i < 14; i++)
+                    for (int i = 0; i < 15; i++)
                     {
                         rest = Math.Round(rest, 2);
                         if (rest >= tmpValList[i] && amountList[i] > 0)
